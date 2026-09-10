@@ -4,7 +4,7 @@ I'm a technical writer who goes hard on information architecture, writing for hu
 
 Other things I like to talk about:
 
-- API definition specifications (I use OpenAPI and Fern Definition)
+- API definition specifications
 - Relational ontology, knowledge graphs, and other assorted ways to describe relationships between doc content
 - Gerolsteiner mineral water, IDK what they put in that stuff but I'm hooked
 - Doc tooling of all sorts, be it CLIs that make us go faster or goofy little self-contained React components that delight readers
